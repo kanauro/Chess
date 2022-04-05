@@ -7,6 +7,7 @@ import time
 import copy
 import datetime                                         
 import simpleaudio as sa
+import os
 class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
     
     def __init__(self):
@@ -206,7 +207,7 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
             
             self.logy = 'logy_hodov.txt'                #nazov suboru, kde sa budu chranit logy
             self.nedokoncena_hra = 'last_save.txt'                  #posledna ulozena hra
-            self.stare_logy = 'last_save_logs.txt'
+            self.stare_logy = 'llast_save_logs.txt'
             self.nova_hra = True            # hrate teraz novu hru, alebo ulozenu
             
             ###########################################
