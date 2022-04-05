@@ -1,0 +1,1350 @@
+
+2020.05.25 09:43:25 Hra dokoncena. Hrac hra bielmy
+
+Biele: g6-f5
+Cierne: f3-g4
+Biele: c6-d5
+Cierne: b3-c4
+Biele: d5-b3
+Cierne: c2-a4
+Biele: b7-c6
+Cierne: g2-f3
+Biele: a6-b5
+Cierne: d3-e4
+Biele: f5-d3
+Cierne: e2-c4, c4-a6
+Biele: c8-b7
+Cierne: a6-c8
+Biele: e6-f5
+Cierne: g4-e6
+Biele: f7-d5
+Cierne: c8-e6, e6-c4
+Biele: e8-d7
+Cierne: c4-a6
+Biele: d7-e6
+Cierne: a6-b5
+Biele: e6-f5
+Cierne: b5-d7, d7-g4
+Biele: a8-b7
+Cierne: g4-c8
+Biele: b7-c6
+Cierne: c8-a6
+Biele: g8-f7
+Cierne: a6-c4
+Biele: f7-g6
+Cierne: f3-e4
+Biele: g6-f5
+Cierne: e4-g6
+Biele: h7-f5
+Cierne: c4-d3
+Biele: f5-g4
+Cierne: h3-f5
+Biele: c6-d5
+Cierne: d3-b5
+Biele: d5-e4
+Cierne: f5-d3
+
+2020.05.25 14:12:21 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: b3-a4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: d7-b5
+Cierne: a2-b3
+Biele: b5-a4
+Cierne: b3-c4
+Biele: e6-d5
+Cierne: c4-e6
+Biele: f7-d5
+Cierne: b1-a2
+Biele: b7-c6
+Cierne: a2-b3
+Biele: c6-b5
+Cierne: d3-e4
+Biele: b5-c4
+Cierne: e4-c6
+Biele: c4-a2
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: a2-b1
+Cierne: c2-b3
+Biele: a4-c2
+Cierne: d1-b3
+Biele: b1-e4
+Cierne: c6-b7
+
+2020.05.25 14:28:22 Hra nedokoncena. Hrac hra bielmy
+
+Biele: c6-b5
+Cierne: b3-a4
+Biele: b7-c6
+Cierne: c2-b3
+Biele: e6-d5
+Cierne: d3-c4
+Biele: b5-d3
+Cierne: e2-c4, c4-e6
+Biele: f7-d5
+Cierne: b3-c4
+Biele: d5-b3
+Cierne: a4-c2
+Biele: a6-b5
+Cierne: f3-e4
+Biele: d7-e6
+Cierne: a2-b3
+Biele: b5-a4
+Cierne: c2-d3
+Biele: a4-c2
+Cierne: d1-b3
+Biele: e6-f5
+Cierne: b3-c4
+Biele: e8-d7
+Cierne: b1-c2
+Biele: c8-b7
+Cierne: f1-e2
+Biele: d7-e6
+Cierne: g2-f3
+Biele: c6-d5
+Cierne: e4-c6
+Biele: b7-d5, d5-b3, b3-d1
+Cierne: d3-c4
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: d1-h5
+Cierne: c4-b5
+Biele: f5-e4
+Cierne: b5-a6
+Biele: e4-d3
+Cierne: h1-g2
+Biele: d3-e2
+Cierne: g2-f3
+Biele: e2-g4
+Cierne: h3-f5, f5-d7
+Biele: g8-f7
+Cierne: d7-e8
+Biele: f7-e6
+Cierne: a6-b7
+Biele: a8-c6
+Cierne: e8-b5
+Biele: e6-d5
+Cierne: b5-f1
+Biele: d5-e4
+Cierne: f1-g2
+Biele: e4-d3
+Cierne: g2-f1
+Biele: d3-c2
+Cierne: f1-g2
+Biele: c2-d1
+Cierne: g2-h1
+Biele: h7-g6
+Cierne: h1-e4
+Biele: h5-g4
+Cierne: e4-h7
+Biele: g4-e6
+Cierne: h7-g8
+Biele: e6-a2
+Cierne: g8-h7
+Biele: d1-f3
+Cierne: h7-b1
+Biele: f3-d5
+Cierne: b1-d3
+Biele: a2-b1
+Cierne: d3-e2
+Biele: d5-e4
+Cierne: e2-f1
+Biele: e4-b7
+Cierne: f1-a6
+Biele: b7-c8
+Cierne: a6-e2
+Biele: c8-a6
+Cierne: e2-h5
+Biele: b1-c2
+Cierne: h5-d1
+Biele: c2-g6
+Cierne: d1-h5
+Biele: g6-e4
+Cierne: h5-d1
+Biele: a6-b5
+Cierne: d1-a4
+Biele: b5-e8
+Cierne: a4-d1
+Biele: e8-d7
+Cierne: d1-a4
+Biele: d7-e8
+Cierne: a4-d1
+Biele: e8-f7
+Cierne: d1-h5
+Biele: f7-e8
+Cierne: h5-e2
+Biele: e8-d7
+Cierne: e2-a6
+Biele: e4-c2
+Cierne: a6-c8
+Biele: d7-c6
+Cierne: c8-a6
+Biele: c6-a4
+Cierne: a6-b7
+Biele: c2-f5
+Cierne: b7-c8
+Biele: f5-e4
+Cierne: c8-a6
+Biele: a4-d7
+Cierne: a6-c8
+Biele: d7-h3
+Cierne: c8-a6
+Biele: e4-f5
+Cierne: a6-f1
+Biele: f5-e4
+Cierne: f1-c4
+Biele: e4-b7
+Cierne: c4-a6
+Biele: h3-c8
+Cierne: a6-d3
+Biele: b7-c6
+Cierne: d3-a6
+Biele: c8-d7
+Cierne: a6-c8
+Biele: d7-h3
+Cierne: c8-a6
+Biele: c6-a4
+Cierne: a6-b7
+Biele: h3-f1
+Cierne: b7-h1
+Biele: a4-b5
+Cierne: h1-d5
+Biele: b5-d7
+Cierne: d5-h1
+Biele: d7-e6
+Cierne: h1-b7
+Biele: e6-d7
+Cierne: b7-c8
+Biele: f1-h3
+Cierne: c8-g4
+Biele: h3-f5
+
+2020.05.25 14:43:04 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+Cierne: b3-d5
+Biele: c6-e4
+Cierne: c2-b3
+Biele: h7-f5
+Cierne: h1-g2
+Biele: b5-d3, d3-b1
+2020.05.25 10:10:01 Hra nedokoncena. Hrac hra bielmy
+
+Biele: e6-d5
+Cierne: d3-c4
+Biele: d7-e6
+Cierne: e2-d3
+Biele: g6-f5
+Cierne: f3-e4
+Biele: d5-f3
+Cierne: g2-e4, e4-g6
+Biele: h7-f5
+Cierne: h1-g2
+Biele: c6-d5
+Cierne: b3-a4
+Biele: d5-b3
+Cierne: a2-c4
+Biele: b7-c6
+Cierne: g2-f3
+Biele: c6-d5
+Cierne: b1-a2
+Biele: d5-b3
+Cierne: a2-c4
+Biele: e8-d7
+Cierne: f3-e4
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: f1-e2
+Biele: g4-h3
+Cierne: e2-f3
+Biele: c8-b7
+Cierne: f3-g4
+Biele: h3-f5
+Cierne: e4-g6, g6-e8, e8-b5
+Biele: g8-f7
+Cierne: b5-e8
+Biele: b7-c6
+Cierne: e8-g6
+Biele: a8-b7
+Cierne: d3-e4
+Biele: c6-d5
+Cierne: e4-c6, c6-a8
+Biele: a6-b5
+Cierne: a4-c6
+
+2020.05.25 14:46:18 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.05.25 14:46:32 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.05.25 14:51:58 Hra nedokoncena. Hrac hra bielmy
+
+Biele: e6-f5
+Cierne: f3-g4
+Biele: g6-h5
+Cierne: g4-e6
+Biele: d7-f5
+Cierne: e2-f3
+Biele: f7-e6
+Cierne: f3-e4
+Biele: e6-d5
+Cierne: e4-g6
+Biele: h7-f5
+Cierne: d3-c4
+Biele: d5-e4
+Cierne: c4-d5
+Biele: e4-f3
+Cierne: g2-e4, e4-g6
+Biele: h5-f7
+Cierne: d5-e6
+Biele: f7-d5
+Cierne: b3-c4
+Biele: d5-b3
+Cierne: c2-a4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: b7-d5
+Cierne: a2-b3
+Biele: d5-e4
+Cierne: b3-c4
+Biele: e8-d7
+Cierne: f1-g2
+Biele: d7-e6
+Cierne: h3-g4
+Biele: g8-f7
+Cierne: b1-c2
+Biele: c8-d7
+Cierne: g2-h3
+Biele: d7-c6
+Cierne: c2-b3
+Biele: c6-b5
+Cierne: g4-f5
+Biele: e4-g6
+Cierne: h1-g2
+Biele: b5-d3
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: g2-f3
+Biele: e6-d5
+Cierne: h3-g4
+Biele: d3-e2
+Cierne: f3-e4
+Biele: d5-f3
+Cierne: d1-c2
+Biele: e2-f1
+Cierne: g4-e2
+Biele: f1-d3, d3-b1
+Cierne: a4-b5
+Biele: a6-c4
+
+2020.05.25 14:52:13 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: f3-g4
+Biele: g6-h5
+Cierne: d3-c4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: d7-b5
+Cierne: d3-c4
+Biele: b5-d3
+Cierne: e2-c4
+Biele: b7-c6
+Cierne: c2-b3
+Biele: c6-b5
+Cierne: c4-d5
+Biele: e6-c4
+Cierne: b3-d5
+Biele: b5-a4
+Cierne: d5-c6
+Biele: c8-d7
+Cierne: c6-b7
+Biele: a8-c6
+Cierne: f3-g4
+Biele: g6-h5
+Cierne: d1-c2
+Biele: h5-f3
+Cierne: g2-e4
+Biele: f7-g6
+Cierne: h3-g4
+Biele: g6-h5
+Cierne: g4-f5
+Biele: e8-f7
+Cierne: f1-g2
+Biele: f7-g6
+Cierne: c2-b3
+Biele: a4-c2
+Cierne: b1-d3
+Biele: c6-b5
+Cierne: a2-b3
+Biele: b5-a4
+Cierne: b3-c4
+Biele: d7-c6
+Cierne: c4-d5
+Biele: g8-f7
+Cierne: d5-b7
+Biele: a6-c8
+Cierne: d3-c4
+Biele: c8-b7
+Cierne: c4-d5
+Biele: b7-a6
+Cierne: f5-e6
+Biele: a4-b3
+Cierne: e6-g8
+Biele: b3-a2
+Cierne: d5-e6
+Biele: g6-f5
+Cierne: e6-g4
+Biele: h5-f3, f3-d5
+Cierne: g8-c4
+Biele: a2-b1
+Cierne: c4-a2
+Biele: b1-f5
+Cierne: g2-h3
+Biele: a6-b5
+Cierne: a2-f7
+Biele: f5-e6
+Cierne: f7-c4, c4-a6
+
+2020.05.25 16:10:28 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: d3-e4
+Biele: h7-f5, f5-d3
+Cierne: c2-e4
+Biele: c6-d5
+Cierne: e4-c6
+Biele: b7-d5
+Cierne: g2-h3
+Biele: g4-f3
+Cierne: f1-g2
+Biele: d7-c6
+Cierne: g2-e4
+Biele: d5-f3
+Cierne: d1-c2
+Biele: f3-e2
+Cierne: h3-g4
+Biele: e2-d1
+Cierne: g4-f5
+Biele: d1-b3
+Cierne: a4-c2
+Biele: g8-h7
+Cierne: f5-e6
+Biele: a6-b5
+Cierne: c2-b3
+Biele: c8-b7
+Cierne: b3-a4
+Biele: b5-c4
+Cierne: e6-d7
+Biele: c4-d3
+Cierne: d7-b5
+Biele: d3-e2
+Cierne: b5-a6
+Biele: b7-c6
+Cierne: a6-b7
+Biele: e2-f1
+Cierne: b7-d5
+Biele: h7-g6
+Cierne: d5-e6
+Biele: g6-h5
+Cierne: a2-b3
+Biele: h5-g4
+Cierne: b1-a2
+Biele: g4-f3
+Cierne: b3-c4
+Biele: f1-a6
+Cierne: a2-b3
+Biele: f3-e2
+Cierne: h1-g2
+Biele: e2-d1
+Cierne: g2-h3
+Biele: d1-f3
+Cierne: a4-b5
+Biele: a6-c4, c4-a2, a2-g8
+Cierne: h3-g4
+Biele: f3-h5
+
+2020.05.25 16:10:36 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: f3-g4
+
+2020.05.25 16:14:27 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.05.25 16:14:33 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.05.25 14:44:28 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.05.25 16:34:23 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: b3-a4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: d7-b5
+Cierne: a2-b3
+Biele: b5-a4
+Cierne: b3-c4
+
+2020.05.25 16:40:37 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: b3-a4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: b7-d5
+Cierne: d3-e4
+
+2020.05.25 17:22:15 Hra nedokoncena. Hrac hra bielmy
+
+Biele: h3-f5, f5-b1
+Cierne: h1-g2
+Biele: b1-d3
+Cierne: g2-f3
+Biele: a8-b7
+Cierne: b3-c4
+Biele: d3-a6
+Cierne: f3-g4
+Biele: a6-d3
+Cierne: a2-b3
+Biele: f7-e6
+Cierne: b3-c4
+Biele: d3-a6
+Cierne: g4-f5
+Biele: e6-g4
+Cierne: h5-f3
+Biele: h7-g6
+Cierne: f3-g4
+Biele: g6-h5
+Cierne: g4-f5
+Biele: b7-c6
+Cierne: f5-e6
+Biele: d5-f7
+Cierne: a4-b5
+Biele: a6-c4
+2020.05.25 16:21:01 Hra nedokoncena. Hrac hra bielmy
+
+Biele: c6-d5
+Cierne: d3-c4
+Biele: d7-c6
+Cierne: e2-d3
+Biele: e8-d7
+Cierne: d3-e4
+Biele: g6-h5
+Cierne: f1-e2
+Biele: f7-g6
+Cierne: e2-d3
+Biele: g8-f7
+Cierne: h3-g4
+Biele: a6-b5
+Cierne: c4-a6
+Biele: d5-c4
+Cierne: d3-b5
+Biele: c6-a4
+Cierne: b3-c4
+Biele: d7-c6
+Cierne: c4-b5
+Biele: c6-d5
+Cierne: e4-c6
+Biele: b7-d5
+Cierne: c2-b3
+Biele: a4-c6
+Cierne: g2-h3
+Biele: g6-f5
+Cierne: f3-e4
+Biele: d5-f3
+Cierne: g4-e2
+Biele: f5-e4
+Cierne: b3-a4
+Biele: e4-f3
+Cierne: e2-g4
+Biele: h5-f3
+Cierne: d1-c2
+Biele: f3-e2
+Cierne: h3-g4
+Biele: e2-f1
+Cierne: g4-h5
+Biele: e6-f5
+Cierne: a2-b3
+Biele: c6-d5
+Cierne: b1-a2
+Biele: f1-h3
+Cierne: c2-d3
+Biele: c8-b7
+Cierne: a6-c8, c8-g4
+Cierne: b3-a4
+
+2020.05.31 21:50:16 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.05.31 22:01:49 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: f3-g4
+
+2020.05.31 22:01:58 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.05.31 22:03:06 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.01 10:21:53 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.01 10:55:57 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.01 11:23:46 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+Cierne: b3-d5
+Biele: c6-e4
+Cierne: c2-b3
+Biele: h7-f5
+Cierne: h1-g2
+Biele: d7-e6
+Cierne: b3-c4
+Biele: b7-c6
+Cierne: g2-h3
+Biele: e4-f3
+Cierne: f1-e2
+Biele: c6-b5
+Cierne: e2-g4
+Biele: b5-d3
+Cierne: d1-c2
+Biele: d3-e2
+Cierne: c2-b3
+Biele: e2-d1
+Cierne: b1-c2
+Biele: d1-h5
+Cierne: b3-a4
+Biele: e6-d5
+Cierne: c2-d3
+Biele: d5-c4
+Cierne: d3-b5
+Biele: a6-c4
+Cierne: a4-b5
+Biele: c4-a6
+Cierne: a2-b3
+Biele: a8-b7
+Cierne: b3-a4
+Biele: h5-g4
+
+2020.06.01 11:30:44 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.01 11:31:51 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: e8-f7
+Cierne: a4-b5
+
+2020.06.01 11:35:29 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: c8-d7
+Biele: c8-d7, d7-e6
+Biele: c8-d7
+
+2020.06.01 11:49:56 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+Biele: c8-d7
+Biele: c8-d7
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+
+2020.06.01 12:16:00 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: c8-d7
+Cierne: a4-b5
+Biele: a6-c4
+2020.05.25 17:25:52 Hra nedokoncena. Hrac hra bielmy
+
+Biele: e4-f3
+Cierne: h1-g2
+Biele: f3-h1
+
+2020.06.02 13:30:49 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.02 13:46:10 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: h7-f5
+Cierne: h1-g2
+
+2020.06.02 14:24:08 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.01 15:43:50 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+Cierne: b3-d5
+Biele: c6-e4
+Cierne: c2-b3
+Biele: h7-f5
+Cierne: h1-g2
+2020.06.02 14:56:31 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: d3-e4
+Biele: h7-f5, f5-d3
+Cierne: c2-e4
+Biele: g4-h3
+Cierne: d1-e2
+Biele: c6-b5
+Cierne: a4-c6
+Biele: b7-d5, d5-f3, f3-d1
+Cierne: b1-c2
+Biele: d1-a4
+Cierne: g2-f3
+Cierne: f3-e4
+Cierne: e4-d5
+Cierne: f1-e2
+Cierne: e2-f3
+
+2020.06.02 16:28:35 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.02 16:28:47 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+2020.06.02 16:27:50 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+2020.06.02 16:30:47 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+2020.06.02 16:42:32 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+
+2020.06.02 16:57:10 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.02 17:28:27 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5, h5-g4
+
+2020.06.02 17:43:53 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.02 17:45:38 Hra nedokoncena. Hrac hra bielmy
+
+Biele: c6-b5
+
+2020.06.02 17:52:22 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+2020.06.02 16:55:38 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.02 18:01:24 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5, f7-g6, e8-f7
+
+2020.06.02 18:03:42 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.02 18:05:49 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.02 18:10:34 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+2020.06.02 17:53:46 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5, a4-b3
+
+2020.06.02 18:27:53 Hra nedokoncena. Hrac hra bielmy
+
+Biele: h3-g4
+
+2020.06.02 18:31:17 Hra nedokoncena. Hrac hra bielmy
+
+Biele: h3-g4
+
+2020.06.02 18:32:10 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5, f7-g6
+
+2020.06.02 18:36:38 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: h3-g4
+Biele: g4-h3
+
+2020.06.02 18:38:49 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: b3-a4
+
+2020.06.02 18:43:47 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: h3-g4
+Biele: f7-g6
+Cierne: d3-c4
+Biele: g6-f5
+Cierne: b3-a4
+Biele: f5-h3
+Cierne: f3-e4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: b7-d5, d5-f3
+Cierne: e2-g4
+Biele: h5-f3
+2020.06.02 18:13:25 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5, g6-h5
+
+2020.06.02 19:37:12 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: b3-c4
+Biele: f7-g6
+Cierne: c2-b3
+Biele: c6-b5
+Cierne: d3-e4
+Biele: b5-d3, d3-f5
+Cierne: e2-d3
+Biele: f5-e4
+
+2020.06.02 19:39:18 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+
+2020.06.02 19:40:05 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.02 19:41:18 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.02 19:47:47 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.02 19:54:31 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.02 19:55:52 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.02 20:05:18 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-e4
+
+2020.06.02 20:08:18 Hra nedokoncena. Hrac hra bielmy
+
+Biele: e6-f5
+Cierne: f3-g4
+2020.06.02 18:45:03 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+
+2020.06.03 21:24:32 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.03 23:05:22 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+2020.06.03 21:24:54 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 10:14:07 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: c6-b5
+Cierne: a4-c6
+Biele: d7-b5
+Cierne: d3-c4
+
+2020.06.04 10:22:29 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 10:10:43 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: g2-e4
+Biele: e6-f5
+Cierne: e4-g6
+Biele: f7-h5
+
+2020.06.04 10:41:07 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 10:24:16 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+Cierne: b3-d5
+Biele: c6-e4
+Cierne: c2-b3
+Biele: h7-f5
+Cierne: h1-g2
+
+2020.06.04 10:41:44 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 10:41:40 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 10:42:12 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 10:41:52 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 10:44:08 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.04 10:44:19 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+
+2020.06.04 10:48:17 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 10:48:35 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 10:48:47 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+2020.06.04 10:44:12 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+2020.06.04 11:36:28 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-f5
+Cierne: f3-g4
+Biele: f5-e4
+Cierne: d3-f5
+2020.06.04 14:06:50 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f5-g4
+Cierne: g2-f3
+Biele: e4-g2
+Cierne: f1-h3, h3-f5
+Biele: d7-e6
+Cierne: f5-d7
+
+2020.06.04 14:19:22 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 14:19:57 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.04 14:20:37 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+
+2020.06.04 14:21:12 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 14:23:36 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 14:24:12 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 14:29:44 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: e6-f5
+Cierne: g4-e6
+Biele: d7-f5
+
+2020.06.04 18:59:16 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:03:08 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:07:02 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+2020.06.04 14:16:56 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-f3
+Biele: g4-e2, e2-c4
+Cierne: b3-d5
+Biele: c6-e4
+Cierne: c2-b3
+Biele: h7-f5
+Cierne: h1-g2
+2020.06.04 19:08:34 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+2020.06.04 19:09:39 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:11:03 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:12:06 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:12:23 Hra nedokoncena. Hrac hra ciernmy
+
+Cierne: b3-a4
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:12:42 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4
+
+2020.06.04 19:18:43 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 19:29:03 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 19:29:55 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 20:05:38 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.04 20:06:19 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.08 13:25:29 Hra 
+
+2020.06.08 13:26:38 Hra nedokoncena. 
+
+2020.06.08 13:28:00 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.08 13:28:02 Hra nedokoncena. Hrac hra bielmy
+
+
+2020.06.08 13:28:05 Hra nedokoncena. Hrac hra bielmy
+
+
+2020.06.08 13:28:27 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.08 13:29:04 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+
+2020.06.08 13:29:14 Hra nedokoncena. Hrac hra bielmy
+
+
+2020.06.08 13:29:19 Hra nedokoncena. Hrac hra bielmy
+
+
+2020.06.08 13:32:11 Hra nedokoncena. Hrac hra bielmy
+
+
+2020.06.08 13:33:21 Hra nedokoncena. Hrac hra bielmy
+
+2020.06.08 13:35:27 Hra nedokoncena. Hrac hra bielmy
+
+Biele: h5-f3
+Cierne: e2-g4
+2020.06.08 22:36:35 Hra nedokoncena. Hrac hra bielmy
+
+Biele: f7-g6
+Cierne: g4-h5
+Biele: g6-f5
+Cierne: h5-g6
+Biele: f5-g4
+Cierne: h3-f5
+Biele: e6-g4
+Cierne: g2-h3
+Biele: h7-f5
+Cierne: d3-e4
+Biele: f5-d3
+Cierne: h3-f5
+Biele: e8-f7
+Cierne: c2-e4
+Biele: f7-e6
+Cierne: f5-g6
+2020.06.08 23:03:04 Hra nedokoncena. Hrac hra bielmy
+
+Biele: h5-f3
+Cierne: e2-g4
+Biele: f7-g6
+2020.06.08 23:07:15 Hra nedokoncena. Hrac hra bielmy
+
+Biele: b7-c6
+Cierne: b3-c4
+Biele: d7-e6
+Cierne: g2-h3
+Biele: e4-f3
+Cierne: f1-e2
+Biele: c6-b5
+Cierne: e2-g4
+Biele: b5-d3
+2020.06.14 20:38:21 Hra nedokoncena. Hrac hra bielmy
+
+Biele: c6-e4
+Cierne: c2-b3
+2020.06.20 15:35:25 Hra nedokoncena. Hrac hra bielmy
+
+Biele: g6-h5
+Cierne: f3-g4
+Biele: h5-f3
+Cierne: e2-g4

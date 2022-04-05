@@ -1,0 +1,12 @@
+Color pesiakov:White/Black
+Lvl:Middle
+Player vs Computer
+0 3 0 3 0 3 0 3
+3 0 3 0 0 0 3 0
+0 3 0 3 0 0 0 3
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 3
+1 0 1 0 1 0 1 0
+0 1 0 1 0 0 0 1
+1 0 1 0 1 0 1 0
+hod Hraca. Hrac hra bielmy.
