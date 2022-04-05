@@ -58,7 +58,7 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
     
     def load_game_1(self):   #zapise do suboru setting pre hry proti pocitaca
         with open('setting.txt', 'a') as t:
-            if not self.existuje_subor('setting.txt'):
+            if not self.fileExistAndIsNotEmpty('setting.txt'):
                 t.write(''.join(self.zoz_option))
             t.write('New Game\n')
             t.write('Player vs Computer\n')
@@ -71,7 +71,7 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
 
     def load_game_2(self):  #zapise do suboru setting pre hry proti hraca
         with open('setting.txt', 'a') as t:
-            if not self.existuje_subor('setting.txt'):
+            if not self.fileExistAndIsNotEmpty('setting.txt'):
                 t.write(''.join(self.zoz_option))
             t.write('New Game\n')
             t.write('Player vs Player\n')
@@ -79,10 +79,10 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
         self.init_game()
 
     def load_save_game(self):   #zapise do suboru setting pre ulozenu hru
-        over = self.existuje_subor('last_save.txt')
+        over = self.fileExistAndIsNotEmpty('last_save.txt')
         if over:
             with open('setting.txt', 'a') as t:
-                if not self.existuje_subor('setting.txt'):
+                if not self.fileExistAndIsNotEmpty('setting.txt'):
                     t.write(''.join(self.zoz_option))
                 t.write('Load Game\n')
             self.init_game()
@@ -97,22 +97,16 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
     def init_option(self):      #otvori options
         self.root.destroy()
         self.option = self.GameOptions()
-        
-
-    def existuje_subor(self, meno_suboru):  #overi ci existuje ulozena hra
-        try:
-            t = open(meno_suboru)
-            if t.read() == '':
-                return False
-            t.close()
-            return True
-        except FileNotFoundError:
-            return False
 
     def vypis_warning(self):        #vypise warning na neexistovanie ulozenej hry
         self.war = tk.Label(self.root, text = "Ulozena hra neexistuje", width=55, bg='#ffaaaa', font = ('Consolas', 20, 'bold'))
         self.war.place(x=0, y=100)
         self.war.after(2000 , lambda: self.war.destroy())
+
+    def fileExistAndIsNotEmpty(self, path):
+        print(os.path.exists(path))
+        print(os.stat(path).st_size)
+        return os.path.exists(path) and os.stat(path).st_size != 0
 
     def exit(self):         #zatvory hru
         t = open('setting.txt', 'w')
@@ -207,7 +201,7 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
             
             self.logy = 'logy_hodov.txt'                #nazov suboru, kde sa budu chranit logy
             self.nedokoncena_hra = 'last_save.txt'                  #posledna ulozena hra
-            self.stare_logy = 'llast_save_logs.txt'
+            self.stare_logy = 'last_save_logs.txt'
             self.nova_hra = True            # hrate teraz novu hru, alebo ulozenu
             
             ###########################################
@@ -445,9 +439,9 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
 
         def load_logs(self, file, vysl):                    #zapise logy pohybov
             with open(file, 'a') as t:
-                if self.nova_hra or not(self.existuje_subor(file)):
+                if self.nova_hra or not(self.fileExistAndIsNotEmpty(file)):
                     cas = datetime.datetime.today().strftime("%Y.%m.%d %H:%M:%S")
-                    if self.existuje_subor(file):
+                    if self.fileExistAndIsNotEmpty(file):
                         t.write('\n')
                     t.write('\n' + cas + ' Hra ')
                     if vysl:
@@ -527,7 +521,7 @@ class Main: #hlavna trieda ktora ma ostatne podtriedy (definuje Menu)
 
         def skopiruj_subor(self, subor1, subor2, vysl=False):   #kopiruje obsah subor2 do subor1
             with open(subor1, 'a') as t:
-                if self.existuje_subor(subor2):
+                if self.fileExistAndIsNotEmpty(subor2):
                     sub = open(subor2)
                     for i in sub:
                         s = i
